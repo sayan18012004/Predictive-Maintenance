@@ -28,7 +28,7 @@ To run the code in this repository, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/turbofan-predictive-maintenance.git
+git clone https://github.com/sayan18012004/Predictive-Maintenance.git
 ```
 
 3. Run the Jupyter notebooks or Python scripts in the `code` directory.
